@@ -1,8 +1,8 @@
 # curriculum Vitae - react
 ## Deploy on GitHub Pages
-Para visualizar la pagina desplegada en GitHub Pages puedes dar click en el siguiente enlace. [Ir a la web](https://mateodevcode.github.io/curriculum-vitae-react/)
+Para visualizar la pagina desplegada en GitHub Pages puedes dar click en el siguiente enlace. [Ir a la web](https://mateodevcode.github.io/cv-react)
 
-![image](https://github.com/user-attachments/assets/84083e14-acf2-4315-9905-09ea20a15097)
+![image](https://github.com/user-attachments/assets/8074ec76-91b5-41bc-acb3-36d4e790cffc)
 
 
 # Curriculum Viate - React
@@ -38,5 +38,3 @@ El proyecto está configurado para ser desplegado fácilmente en plataformas com
 Este proyecto no solo muestra la capacidad técnica para construir aplicaciones React, sino también la atención al detalle en la presentación de información de manera clara y accesible.
 
 ### Desarrollado por mateodevcode -- Reineiro Moterrosa -- One Second Cyber Security
-# cv-react
-# cv-react
